@@ -30,6 +30,7 @@ function CollapsibleExample() {
             <Nav.Link eventKey={2} href="#memes">
               Dank memes
             </Nav.Link>
+            <Nav.Link href="/signup">Register </Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
